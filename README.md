@@ -36,9 +36,9 @@ This assignment is divided into two main parts:
 
 ## 🎨 Part 2: Conditional GAN on MNIST
 
-###🔧 Tools & Libraries
---torch, torchvision
---matplotlib for visualization
+**###🔧 Tools & Libraries**
+- torch, torchvision
+- matplotlib for visualization
 
 | Task          | Description                                        |
 | ------------- | -------------------------------------------------- |
